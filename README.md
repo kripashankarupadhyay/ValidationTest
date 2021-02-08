@@ -28,3 +28,8 @@ poi
 poi-ooxml
 log4j-api
 log4j
+
+## Used Excel sheet to read the data
+TestData.xlsx
+
+## Used POM for creating test cases
