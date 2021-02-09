@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite thread-count="1" verbose="1" name="Suite1" >
+         
+  <test name="HotelBooking">
+	 <classes>
+	   <class name="TestCases.Login"/>
+	 </classes>
+   </test>
+   </suite>
+   
